@@ -1,7 +1,0 @@
-{
-  "type": "module",
-  "scripts": {
-    "start": "node meal-backend.mjs",
-    "meal-backend": "node meal-backend.mjs"
-  }
-}
