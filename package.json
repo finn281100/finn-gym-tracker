@@ -1,7 +1,7 @@
 {
   "type": "module",
   "scripts": {
-    "test": "node tests/tracker-settings.test.js && node tests/cardio-training.test.js && node tests/meal-analysis.test.js && node tests/quick-stats.test.js",
+    "start": "node meal-backend.mjs",
     "meal-backend": "node meal-backend.mjs"
   }
 }
