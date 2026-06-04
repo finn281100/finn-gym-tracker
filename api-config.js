@@ -1,1 +1,1 @@
-window.GYM_MEAL_API_BASE = 'https://dein-backend-name.onrender.com';
+window.GYM_MEAL_API_BASE = 'https://finn-gym-tracker.onrender.com';
